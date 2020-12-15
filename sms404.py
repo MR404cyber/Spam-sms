@@ -7,8 +7,8 @@ Proyek
 Wiki
 Keamanan
 Wawasan
-MDSpammers/ main.py
-@Abileno
+Spamsms/ sms404.py
+@Raihan
 AbilSeno Menambahkan file melalui upload
  1 kontributor
 303 baris (301 sloc)  16.8 KB
@@ -37,9 +37,9 @@ def  main ():
  logo def ():
   cetak  "" "% s
   __ __ ___ ___                                   
-| \ / | \ / __ | _ __ __ _ _ __ _ __ ___ _ _ ___% s Penulis oleh% sabilseno11% s
-| | \ / | | |) | \ __ \ '_ \ / _` | '\ | '\ / -_)' _ (_- <% sGithub% sgithub.com / AbilSeno% s
-| _ | | _ | ___ / | ___ / .__ / \ __, _ | _ | _ | _ | _ | _ | _ \ ___ | _ | / __ /% sTim% sanoncybfakeplayers% s
+| \ / | \ / __ | _ __ __ _ _ __ _ __ ___ _ _ ___% s Penulis oleh% MR.40411% s
+| | \ / | | |) | \ __ \ '_ \ / _` | '\ | '\ / -_)' _ (_- <% sGithub% sgithub.com / mr404cyber% s
+| _ | | _ | ___ / | ___ / .__ / \ __, _ | _ | _ | _ | _ | _ | _ \ ___ | _ | / __ /% sTim% anonymous% s
                    | _ | % sTools spam otp dengan 29 pengirim spam "" " % ( qu , pu , ku , qu , pu , ku , qu , pu , ku , qu , qu )
 # ------------------------------- Fungsi Input ---------------- --------------------------
 def  masukan ():
