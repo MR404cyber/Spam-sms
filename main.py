@@ -22,7 +22,7 @@ def main():
 def logo():
   print """%s
   __  __ ___    ___                                   
- |  \/  |   \  / __|_ __  __ _ _ __  _ __  ___ _ _ ___ %sAuthor by %MR404%s
+ |  \/  |   \  / __|_ __  __ _ _ __  _ __  ___ _ _ ___ %sAuthor by %sabilseno11%s
  | |\/| | |) | \__ \ '_ \/ _` | '  \| '  \/ -_) '_(_-< %sGithub %sgithub.com/AbilSeno%s
  |_|  |_|___/  |___/ .__/\__,_|_|_|_|_|_|_\___|_| /__/ %sTeam %sanoncybfakeplayers%s
                    |_|                                 %sTools spam otp dengan 29 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
