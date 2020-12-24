@@ -32,7 +32,7 @@ class main:
  def subbanner():
      print (f"""{w.i}[{w.k}-{w.i}] {w.k}Author {w.i}: {w.h}MR.404
 {w.i}[{w.k}-{w.i}] {w.k}Nama SC {w.i}: {w.h}Script Spam Wa
-{w.i}[{w.k}-{w.i}] {w.k}Github {w.i}: {w.h}https://github.com/AbilSeno
+{w.i}[{w.k}-{w.i}] {w.k}Github {w.i}: {w.h}https://github.com/MR404cyber
 {w.i}[{w.k}-{w.i}] {w.k}Pesan {w.i}: {w.h}Sementara gunakan spam dekoruma terlebih dahulu""")
  def start():
      pilih = input(f'{w.i}--> {w.i}[{w.m}-{w.i}] {w.k}Massukan pilihan : ')
